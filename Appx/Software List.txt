@@ -1,0 +1,5 @@
+运行此项目，需要安装如下软件：
+01.Eric 6
+02.Qt Desinger
+03.PyQt5
+04.字体文件：https://fontawesome.com/v4.7.0/icons/
